@@ -1,9 +1,5 @@
 ---
-title: ''
-media_order: ''
-body_classes: ''
-order_by: ''
-order_manual: ''
+title: 'Tarea 10 | Juego HTML'
 ---
 
 <html>
@@ -87,8 +83,7 @@ order_manual: ''
     <div id="modal"></div>
     <div id="ScoreTable"></div>
     <a href="javascript:location.reload()">Nueva Partida</a>
-    <!--<a href="#openModal">Guarda tu record</a>|<a href="#openModal2" onclick="getScore();">Revisa tu record maximo</a>-->
-
+    
     <script>
 
         var myGamePiece;
@@ -96,7 +91,7 @@ order_manual: ''
         var myScore;
 
         function startGame() {
-            myGamePiece = new component(30, 30, "/user/themes/quark/images/logo/favicon.png", 10, 120);
+            myGamePiece = new component(30, 30, "/user/pages/01.blog/blog-single10/angry-bird-red-icon.png", 10, 120,"image");
             myScore = new component("30px", "Consolas", "black", 280, 40, "text");
             myGameArea.start();
         }
