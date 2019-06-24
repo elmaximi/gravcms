@@ -97,7 +97,7 @@ body_classes: 'title-center title-h1h2'
                 </div>
                     <div class="blog-entry ftco-animate">
                     <div class="text py-4">
-                        <h3 class="heading"><a href="/blog/blog-single12">Tarea 12 | Juegos con Phaser </a></h3>
+                        <h3 class="heading"><a href="/user/juegophaser/t_hunter.html">Tarea 12 | Juegos con Phaser </a></h3>
                         <p>Analizar el funcionamiento, caracteristicas y eficiencia de varios frameworks .</p>
                     </div>
                 </div>
