@@ -1,5 +1,5 @@
 ---
-title: '• Tarea | Ejercicios Quiz'
+title: 'Tarea | Ejercicios Quiz'
 ---
 
 <html>

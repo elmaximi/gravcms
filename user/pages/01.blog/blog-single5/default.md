@@ -1,5 +1,5 @@
 ---
-title: '• Tarea | Grav CMS'
+title: 'Tarea | Grav CMS'
 media_order: 802b6314d2d4e3f2bb898a71c05411ec71294b61-card.jpeg
 ---
 

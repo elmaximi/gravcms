@@ -1,5 +1,5 @@
 ---
-title: 'Tarea 10 | Juego HTML'
+title: 'Tarea | Juego HTML'
 ---
 
 <html>

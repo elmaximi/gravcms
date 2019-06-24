@@ -1,5 +1,5 @@
 ---
-title: '• Tarea | Figuras Geométricas'
+title: 'Tarea | Figuras Geométricas'
 ---
 
 <html lang="en">

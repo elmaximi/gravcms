@@ -89,6 +89,20 @@ body_classes: 'title-center title-h1h2'
                         <p>Ampliar funcionalidad del juego.</p>
                     </div>
                 </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/blog/blog-single11">Tarea 11 | Frameworks para Juegos</a></h3>
+                        <p>Analizar el funcionamiento, caracteristicas y eficiencia de varios frameworks .</p>
+                    </div>
+                </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/blog/blog-single12">Tarea 12 | Juegos con Phaser </a></h3>
+                        <p>Analizar el funcionamiento, caracteristicas y eficiencia de varios frameworks .</p>
+                    </div>
+                </div>
+                  </div>
+            </div>
         </div> <!-- end: page-container -->
           
     </section>

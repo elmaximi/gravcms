@@ -1,5 +1,5 @@
 ---
-title: '• Tarea | Flat file CMS'
+title: 'Tarea | Flat file CMS'
 ---
 
 #tarea4

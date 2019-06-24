@@ -1,5 +1,5 @@
 ---
-title: '• Tarea | W3schools Quiz'
+title: 'Tarea | W3schools Quiz'
 media_order: 'cjs.jpg,image_6.jpg,image_8.jpg'
 ---
 

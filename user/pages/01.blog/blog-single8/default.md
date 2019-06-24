@@ -1,5 +1,5 @@
 ---
-title: '• Tarea | Elevator Solution'
+title: 'Tarea | Elevator Solution'
 ---
 
 <p>Challenge 1:</p>

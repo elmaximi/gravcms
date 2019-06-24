@@ -1,5 +1,5 @@
 ---
-title: '• Tarea | Magento CMS'
+title: 'Tarea | Magento CMS'
 media_order: image_7.jpg
 ---
 

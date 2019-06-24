@@ -1,5 +1,5 @@
 ---
-title: 'Tarea 9 | Bandera Jamaica'
+title: 'Tarea | Bandera Jamaica'
 ---
 
 <html>
