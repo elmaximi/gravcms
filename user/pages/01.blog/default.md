@@ -98,7 +98,13 @@ body_classes: 'title-center title-h1h2'
                     <div class="blog-entry ftco-animate">
                     <div class="text py-4">
                         <h3 class="heading"><a href="/user/juegophaser/t_hunter.html">Tarea 12 | Juegos con Phaser </a></h3>
-                        <p>Analizar el funcionamiento, caracteristicas y eficiencia de varios frameworks .</p>
+                        <p>Implementar cambios y funcionalidades en el juego</p>
+                    </div>
+                </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/user/concentration/index.html">Examen Paricial | Juego con PixiJS </a></h3>
+                        <p>Implementar cambios y funcionalidades en el juego</p>
                     </div>
                 </div>
                   </div>
