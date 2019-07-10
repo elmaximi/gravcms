@@ -57,6 +57,11 @@ En esta sección encontrarás información acerca de los temas vistos en clase
                         <h3 class="heading"><a href="/actividades/reloj-invertido">• Reloj invertido</a></h3>
                     </div>
                 </div>
+                     <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/actividades/reloj-invertido">• AR.js</a></h3>
+                    </div>
+                </div>
                 </div>
             </div>
         </div> <!-- end: page-container -->
