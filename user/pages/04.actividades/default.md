@@ -59,7 +59,7 @@ En esta sección encontrarás información acerca de los temas vistos en clase
                 </div>
                      <div class="blog-entry ftco-animate">
                     <div class="text py-4">
-                        <h3 class="heading"><a href="/actividades/reloj-invertido">• AR.js</a></h3>
+                        <h3 class="heading"><a href="/blog/applicacion-con-ar-js">• AR.js | Laboratorios</a></h3>
                     </div>
                 </div>
                 </div>
