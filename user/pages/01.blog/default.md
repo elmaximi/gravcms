@@ -107,6 +107,18 @@ body_classes: 'title-center title-h1h2'
                         <p>Implementar cambios y funcionalidades en el juego</p>
                     </div>
                 </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/blog/applicacion-con-ar-js">Tarea 13 | AR.js Laboratorios</a></h3>
+                        <p>Aplicacion de Realidad aumentada </p>
+                    </div>
+                </div>
+                    <div class="blog-entry ftco-animate">
+                    <div class="text py-4">
+                        <h3 class="heading"><a href="/blog/frameworks-para-spa">Tarea 14 | Frameworks para SPA</a></h3>
+                        <p>Comparación de 3 Frameworks (Angular js, React js, Vue js)</p>
+                    </div>
+                </div>
                   </div>
             </div>
         </div> <!-- end: page-container -->
