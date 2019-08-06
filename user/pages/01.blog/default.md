@@ -103,12 +103,6 @@ body_classes: 'title-center title-h1h2'
                 </div>
                     <div class="blog-entry ftco-animate">
                     <div class="text py-4">
-                        <h3 class="heading"><a href="/user/concentration/index.html">Examen Paricial | Juego con PixiJS </a></h3>
-                        <p>Implementar cambios y funcionalidades en el juego</p>
-                    </div>
-                </div>
-                    <div class="blog-entry ftco-animate">
-                    <div class="text py-4">
                         <h3 class="heading"><a href="/blog/applicacion-con-ar-js">Tarea 13 | AR.js Laboratorios</a></h3>
                         <p>Aplicacion de Realidad aumentada </p>
                     </div>
