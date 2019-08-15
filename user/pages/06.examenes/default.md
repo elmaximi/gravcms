@@ -36,7 +36,7 @@ title: Examenes
                 </div>                    
                     <div class="blog-entry ftco-animate">
                     <div class="text py-4">
-                        <h3 class="heading"><a href="/examenes/documentacion-proyecto-final-de-parcial">Documentación | Elaboración proyecto React js con AR js</a></h3>
+                        <h3 class="heading"><a href="/examenes/documentacion-proyecto-final-de-parcial">Documentación y Proyecto React js con AR js</a></h3>
                         <p>Documentación detallada de cómo se pretende elaborar una aplicación web de realidad virtual.</p>
                     </div>
                 </div>
