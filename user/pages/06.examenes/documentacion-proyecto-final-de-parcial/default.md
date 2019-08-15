@@ -26,7 +26,7 @@ Para las alertas en cada componente se utilizó Sweetalert2 el cual posee alerta
 <p>
     <ul>
          credenciales para ingresar como admin:
-        <li>email: elmaximi26@gmail.com</li>
+        <li>email: pruebaelmaximi@gmail.com</li>
         <li>contra: mepicaunateta123</li>
         </ul>
 </p>
